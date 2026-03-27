@@ -39,9 +39,13 @@
 ---
 
 ## 🔥 Top Projects
-### 🏨 Roomify
-- Room booking web app
+### E-Learning Platform
+- E-Learning Platform Providing Live classes, and Structured Courses domain specific
 - Built using **JavaScript + MERN**
+
+- ### Restaurant Management System
+- Built a backend system for order processing, table reservations, offers, and automated availability with feedback workflows.
+- Developed secure RESTful APIs and delivered a responsive, user-friendly interface for smooth operations.
 
 ---
 
