@@ -16,9 +16,9 @@
 <a href="https://linkedin.com/in/ayush-kumar-guptaa" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://ayushskills.netlify.app" target="blank">
+<!--<a href="https://ayushskills.netlify.app" target="blank">
 <img src="https://skillicons.dev/icons?i=webflow" />
-</a>
+</a>-->
 </p>
 
 ---
